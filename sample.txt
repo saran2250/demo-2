@@ -1,2 +1,3 @@
-this is again for a demo 
+this is again for a demo
+this is beign done for git reset demo
 thi sis for a git fetch demo
